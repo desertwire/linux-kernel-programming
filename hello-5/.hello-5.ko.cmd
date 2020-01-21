@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/linux-kernel/hello-5/hello-5.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/ubuntu/linux-kernel/hello-5/hello-5.ko /home/ubuntu/linux-kernel/hello-5/hello-5.o /home/ubuntu/linux-kernel/hello-5/hello-5.mod.o ;  true
