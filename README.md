@@ -1,7 +1,7 @@
 # A repo to display my device driver and linux kernel programming progress
 
 ## Current Progress
-* Linux Kernel Module Guide Chapter 4 
+* Linux Kernel Module Guide Chapter 4: 4.1.5. chardev.c 
 * Linux Kernel Development Chapter 8
 
 ## Loading Kernel Modules
